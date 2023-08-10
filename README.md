@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selychan
 - 👀 
-- 🌱 I’m currently learning java and c programming
+- 🌱 I’m currently learning cyber security
 - 📫 
 İ
 <!---
